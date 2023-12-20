@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="right">
 	<img alt="romanmikh's visitors" src="https://komarev.com/ghpvc/?username=romanmikh&color=yellow&style=flat&label=visitors" />
 	<img alt="romanmikh's followers" src="https://img.shields.io/github/followers/romanmikh?color=yellow" />
@@ -42,8 +39,13 @@ I'm an avid self-learner and have a variety of interests:
 	</a>
 </p>
 
-| [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) |
+| [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) |
 |:-:|:-:|
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
