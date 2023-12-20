@@ -24,7 +24,7 @@ I'm an avid self-learner and have a variety of interests:
 * 🕺  salsa dancing
 
 <p align="center">
-    <a href="mailto:roman.mikhaylenko14@gmail.com">
+    <a href="https://romanm.dev/">
 		<img alt="Gmail" src="https://img.shields.io/badge/-CV-red?style=flat&logo=Alienware&logoColor=white&link=https://romanm.dev/" />
 	</a>
 	<span> * </span>
