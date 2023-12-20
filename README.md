@@ -25,19 +25,19 @@ I'm an avid self-learner and have a variety of interests:
 
 <p align="center">
     <a href="mailto:roman.mikhaylenko14@gmail.com">
-		<img alt="Gmail" src="https://img.shields.io/badge/-Ask_me_anything-yellow?style=flat&logo=Gmail&logoColor=white&link=mailto:roman.mikhaylenko14@gmail.com" />
+		<img alt="Gmail" src="https://img.shields.io/badge/-website-yellow?style=flat&logo=Gmail&logoColor=white&link=mailto:roman.mikhaylenko14@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="mailto:roman.mikhaylenko14@gmail.com">
-		<img alt="Gmail" src="https://img.shields.io/badge/-Ask_me_anything-yellow?style=flat&logo=Gmail&logoColor=white&link=mailto:roman.mikhaylenko14@gmail.com" />
+		<img alt="Gmail" src="https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=Gmail&logoColor=white&link=mailto:roman.mikhaylenko14@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="https://www.linkedin.com/in/roman-mikhaylenko-183314105/">
-		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-mikhaylenko-183314105//" />
+		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-mikhaylenko-183314105//" />
 	</a>
 	<span> * </span>
 	<a href="https://profile.intra.42.fr/apuchill">
-		<img alt="Profile at École 42" src="https://img.shields.io/badge/-apuchill_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/rmikhayl" />
+		<img alt="Profile at École 42" src="https://img.shields.io/badge/-rmikhayl_@_42-ff69b4?style=flat&logoColor=white&link=https://profile.intra.42.fr/users/rmikhayl" />
 	</a>
 </p>
 
@@ -45,12 +45,8 @@ I'm an avid self-learner and have a variety of interests:
 |:-:|:-:|
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
 <h3 align="center">
-	Show some ❤️ by starring ⭐️ my repositories!
+	If you're finding my code useful, please help by starring ⭐️ my repositories!
 </h3>
