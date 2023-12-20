@@ -4,7 +4,7 @@
 	<img alt="romanmikh's stars" src="https://img.shields.io/github/stars/romanmikh?color=yellow" />
 </p>
 
-[![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/sonic.webm)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
+[![SEGA Sonic!(img/sonic.gif)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
 
 # Hello! <img src="https://raw.githubusercontent.com/romanmikh/romanmikh/main/img/Hi.gif" width="30px">
 
