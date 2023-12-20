@@ -10,7 +10,7 @@
 
 ### Thanks for visiting! 😄
 
-I'm a **equity option trader** at [UBS](https://www.ubs.com/uk/en.html)  and a software engineering student at [École 42](https://42london.com/) 📚
+I'm a **equity option trader** at [UBS](https://www.ubs.com/uk/en.html)  and a **software engineering student** at [École 42](https://42london.com/) 📚
 
 I've been working mainly with Python, C, KDB/q+, Java, MATLAB & Mathematica.
 
@@ -41,7 +41,7 @@ I'm an avid self-learner and have a variety of interests:
 	</a>
 </p>
 
-| [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) |
+| [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=great-gatsby)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=great-gatsby)](https://github.com/romanmikh?tab=repositories) |
 |:-:|:-:|
 
 
