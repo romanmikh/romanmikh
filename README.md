@@ -6,24 +6,22 @@
 
 [![Poster with background image of a galaxy in the colours purple and blue with animated sparkling stars and a pixelated cat.](img/poster_galaxy-2.gif)](https://www.linkedin.com/in/romanmikh/)
 
-# Hi there <img src="https://raw.githubusercontent.com/romanmikh/romanmikh/main/img/Hi.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/romanmikh/romanmikh/main/img/Hi.gif" width="30px">
 
 ### Thanks for visiting! 😄
 
-I'm a **full-stack software engineer** at [Hinge Health](https://www.hingehealth.com/)  and used to be a _cadet_ (software engineering student) at [École 42](https://www.42sp.org.br/) ✨.
+I'm a **full-stack software engineer** at [Hinge Health](https://www.hingehealth.com/)  and a software engineering student at [École 42](https://42london.com/) 📚
 
 I've been working mainly with Python, JavaScript/TypeScript, React, React Native, Redux, Flask, PWA, SPA, SQL, MongoDB, AWS, Heroku, Docker, CI/CD.
 
 I'm an avid self-learner and have a variety of interests:
 
-* 🎓  graduated architect and urbanist
-* 🏙  master's in architecture technology
-* ✏️  worked with marketing and design
-* 📖  private teacher (FR EN PT)
+* 🎓  undergraduate in physics & mathematics
+* 🌠  master's in astrophsyics
+* 📈  equity exotics trader at UBS
+* 🖥️  worked with NLP, autoencoders, xxx
 * 🌎  languages & travelling
-* 💃  ballet and tango
-* 🎹  pianist
-* 🐾  animals
+* 🕺  salsa dancing
 
 <p align="center">
     <a href="mailto:roman.mikhaylenko14@gmail.com">
