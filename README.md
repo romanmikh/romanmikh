@@ -25,7 +25,7 @@ I'm an avid self-learner and have a variety of interests:
 
 <p align="center">
     <a href="mailto:roman.mikhaylenko14@gmail.com">
-		<img alt="Gmail" src="https://img.shields.io/badge/-Website-red?style=flat&logo=Gmail&logoColor=white&link=https://romanm.dev/" />
+		<img alt="Gmail" src="https://img.shields.io/badge/-Website-red?style=flat&logo=Alienware&logoColor=white&link=https://romanm.dev/" />
 	</a>
 	<span> * </span>
 	<a href="mailto:roman.mikhaylenko14@gmail.com">
