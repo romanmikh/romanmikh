@@ -36,7 +36,7 @@ I'm an avid self-learner and have a variety of interests:
 		<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-mikhaylenko-183314105/" />
 	</a>
 	<span> * </span>
-	<a href="https://profile.intra.42.fr/apuchill">
+	<a href="https://profile.intra.42.fr/users/rmikhayl">
 		<img alt="Profile at École 42" src="https://img.shields.io/badge/-rmikhayl-ff69b4?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/rmikhayl" />
 	</a>
 </p>
