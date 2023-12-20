@@ -39,7 +39,7 @@ I'm an avid self-learner and have a variety of interests:
 	</a>
 </p>
 
-| [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api/v1?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) |
+| [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=jolly)](https://github.com/romanmikh?tab=repositories) |
 |:-:|:-:|
 
 
