@@ -10,9 +10,9 @@
 
 ### Thanks for visiting! 😄
 
-I'm a **full-stack software engineer** at [Hinge Health](https://www.hingehealth.com/)  and a software engineering student at [École 42](https://42london.com/) 📚
+I'm a **equity option trader** at [UBS](https://www.ubs.com/uk/en.html)  and a software engineering student at [École 42](https://42london.com/) 📚
 
-I've been working mainly with Python, JavaScript/TypeScript, React, React Native, Redux, Flask, PWA, SPA, SQL, MongoDB, AWS, Heroku, Docker, CI/CD.
+I've been working mainly with Python, C, KDB/q+, Java, MATLAB & Mathematica.
 
 I'm an avid self-learner and have a variety of interests:
 
@@ -25,7 +25,7 @@ I'm an avid self-learner and have a variety of interests:
 
 <p align="center">
     <a href="mailto:roman.mikhaylenko14@gmail.com">
-		<img alt="Gmail" src="https://img.shields.io/badge/-Website-red?style=flat&logo=Alienware&logoColor=white&link=https://romanm.dev/" />
+		<img alt="Gmail" src="https://img.shields.io/badge/-CV-red?style=flat&logo=Alienware&logoColor=white&link=https://romanm.dev/" />
 	</a>
 	<span> * </span>
 	<a href="mailto:roman.mikhaylenko14@gmail.com">
@@ -37,7 +37,7 @@ I'm an avid self-learner and have a variety of interests:
 	</a>
 	<span> * </span>
 	<a href="https://profile.intra.42.fr/apuchill">
-		<img alt="Profile at École 42" src="https://img.shields.io/badge/-rmikhayl_@_42-ff69b4?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/rmikhayl" />
+		<img alt="Profile at École 42" src="https://img.shields.io/badge/-rmikhayl-ff69b4?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/rmikhayl" />
 	</a>
 </p>
 
