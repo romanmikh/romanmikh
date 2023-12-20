@@ -19,7 +19,7 @@ I'm an avid self-learner and have a variety of interests:
 * 🎓  undergraduate in physics & mathematics
 * 🌠  master's in astrophsyics
 * 📈  equity exotics trader at UBS
-* 🖥️  worked with NLP, autoencoders, xxx
+* 🖥️  work with NLP, autoencoders & trading algorithms
 * 🌎  languages & travelling
 * 🕺  salsa dancing
 
