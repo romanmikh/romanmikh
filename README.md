@@ -6,7 +6,7 @@
 
 [![black & bellow Chat GPT!](img/black_yellow_AI.png)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
 
-### <div style="display: flex; justify-content: flex-end; align-items: flex-end; height: 200px;">
+### <div style="display: flex; justify-content: flex-end; align-items: flex-end; height: 30px;">
   <img src="img/hello.gif" alt="Hello">
 </div>
  **Thanks for visiting!** 😁 
