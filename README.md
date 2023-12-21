@@ -46,5 +46,5 @@ I'm an avid self-learner and have a variety of interests:
 ---
 
 <h3 align="center">
-	If you're finding my code useful, please help by starring ⭐️ my repositories!
+	If you're finding my code useful, share the ❤️ by ⭐️ my repositories!
 </h3>
