@@ -8,6 +8,8 @@
 
 ### <img src="img/hello.gif" alt="Hello" width="30px"> **Thanks for visiting!** 😁 
 
+---
+
 I'm a **software engineering student** at [École 42](https://42london.com/) and an **equity option trader** at [UBS](https://www.ubs.com/uk/en.html).
 
 I mainly work with Python, C, KDB/q+, Java, MATLAB & Mathematica. I'm an avid self-learner and have a variety of interests:
