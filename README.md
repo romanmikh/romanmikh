@@ -6,7 +6,7 @@
 
 [![black & bellow Chat GPT!](img/black_yellow_AI.png)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
 
-### ![hello](img/hello.gif) **Thanks for visiting!** 😁 
+### <img src="img/hello.gif" alt="Hello" width="200px"> **Thanks for visiting!** 😁 
 
 I'm a **software engineering student** at [École 42](https://42london.com/) and an **equity option trader** at [UBS](https://www.ubs.com/uk/en.html).
 
