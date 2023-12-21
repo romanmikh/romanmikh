@@ -6,10 +6,7 @@
 
 [![black & bellow Chat GPT!](img/black_yellow_AI.png)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
 
-### <div style="display: flex; justify-content: flex-end; align-items: flex-end; height: 30px;">
-  <img src="img/hello.gif" alt="Hello">
-</div>
- **Thanks for visiting!** 😁 
+### <img src="img/hello.gif" alt="Hello" width="30px"> **Thanks for visiting!** 😁 
 
 I'm a **software engineering student** at [École 42](https://42london.com/) and an **equity option trader** at [UBS](https://www.ubs.com/uk/en.html).
 
