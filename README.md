@@ -22,8 +22,8 @@ I mainly work with Python, C, KDB/q+ & Java. I'm an avid self-learner and have a
 * 🕺  salsa dancing
 
 <p align="center">
-    <a href="www.romanm.dev/">
-		<img alt="Gmail" src="https://img.shields.io/badge/-CV-red?style=flat&logo=Alienware&logoColor=white&link=www.romanm.dev/" />
+    <a href="https://www.romanm.dev/">
+		<img alt="Gmail" src="https://img.shields.io/badge/-CV-red?style=flat&logo=Alienware&logoColor=white&link=https://www.romanm.dev/" />
 	</a>
 	<span> * </span>
 	<a href="mailto:roman.mikhaylenko14@gmail.com">
