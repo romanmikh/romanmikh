@@ -46,5 +46,5 @@ I mainly work with Python, C, KDB/q+ & Java. I'm an avid self-learner and have a
 ---
 
 <h3 align="center">
-	If you're finding my code useful, share the ❤️ by ⭐️ my repositories!
+	If you're finding my code useful, share the love and ⭐️ my repositories!
 </h3>
