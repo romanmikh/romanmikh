@@ -10,13 +10,11 @@
 
 I'm a **software engineering student** at [École 42](https://42london.com/) and an **equity option trader** at [UBS](https://www.ubs.com/uk/en.html).
 
-I mainly work with Python & C. I'm an avid self-learner and have a variety of interests:
+I mainly work with C and Python. I'm an avid learner and have a variety of interests:
 
-* 🎓  undergraduate in physics & mathematics
-* 🌠  master's in astrophsyics
+* 🌠  undergraduate & master's in astrophsyics
 * 📈  equity exotics trader at UBS
 * 🖥️  NLP, autoencoders & trading algorithms
-* 🌎  languages & travelling
 * 🕺  salsa dancing
 
 <p align="center">
