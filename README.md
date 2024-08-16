@@ -10,13 +10,7 @@
 
 I'm a **software engineering student** at [École 42](https://42london.com/) and an **equity option trader** at [UBS](https://www.ubs.com/uk/en.html).
 
-I mainly work with C and Python. I'm an avid learner and have a variety of interests:
-
-* 🌠  undergraduate & master's in astrophsyics
-* 📈  equity exotics trader at UBS
-* 🖥️  NLP, autoencoders & trading algorithms
-* 🕺  salsa dancing
-
+I mainly work with C and Python. I'm an avid learner and have a variety of interests including NLP, autoencoders & trading algorithms.
 <p align="center">
     <a href="https://www.romanm.dev/">
 		<img alt="Gmail" src="https://img.shields.io/badge/-CV-red?style=flat&logo=Alienware&logoColor=white&link=https://www.romanm.dev/" />
