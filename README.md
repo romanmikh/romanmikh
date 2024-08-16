@@ -4,7 +4,7 @@
 	<img alt="romanmikh's stars" src="https://img.shields.io/github/stars/romanmikh?color=yellow" />
 </p>
 
-[![black & bellow Chat GPT!](img/black_yellow_AI.png)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
+[![black & bellow Chat GPT!](img/sonic_sphere.gif)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)
 
 ---
 
