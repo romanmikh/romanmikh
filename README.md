@@ -32,5 +32,3 @@ I mainly work with C and Python. I love learning and my interests span across ML
 | [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=great-gatsby)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=great-gatsby)](https://github.com/romanmikh?tab=repositories) |
 |:-:|:-:|
 
-
----
