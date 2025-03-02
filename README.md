@@ -34,7 +34,3 @@ I mainly work with C and Python. I love learning and my interests span across ML
 
 
 ---
-
-<h3 align="center">
-	If you're finding my code useful, share the love and ⭐️ my repositories!
-</h3>
