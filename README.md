@@ -32,3 +32,8 @@ I'm a **software engineering student** at [École 42](https://42london.com/). I 
 | [![romanmikh's GitHub stats](https://github-readme-stats.vercel.app/api?username=romanmikh&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=great-gatsby)](https://github.com/romanmikh?tab=repositories) | [![romanmikh's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romanmikh&layout=compact&hide_border=true&theme=great-gatsby)](https://github.com/romanmikh?tab=repositories) |
 |:-:|:-:|
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romanmikh/romanmikh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romanmikh/romanmikh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/romanmikh/romanmikh/output/github-snake.svg" />
+</picture>
