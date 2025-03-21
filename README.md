@@ -33,7 +33,6 @@ I'm a **software engineering student** at [École 42](https://42london.com/). I 
 |:-:|:-:|
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romanmikh/romanmikh/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romanmikh/romanmikh/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/romanmikh/romanmikh/output/github-contribution-grid-snake.svg" />
 </picture>
