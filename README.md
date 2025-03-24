@@ -6,8 +6,6 @@
 
 <!-- [![black & bellow Chat GPT!](img/sonic_ring_jump_short.gif)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)t -->
 
----
-
 I'm a **software engineering student** at [École 42](https://42london.com/). I mainly work with C and Python. I love learning and my interests span across ML, operating systems and trading algorithms.
 <p align="center">
     <a href="https://www.romanm.dev/">
@@ -26,6 +24,8 @@ I'm a **software engineering student** at [École 42](https://42london.com/). I 
 		<img alt="Profile at École 42" src="https://img.shields.io/badge/-rmikhayl-ff69b4?style=flat&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/rmikhayl" />
 	</a>
 </p>
+
+---
 
 ![](https://github.com/romanmikh/42_cub3d/blob/main/cub3d.gif)
 
