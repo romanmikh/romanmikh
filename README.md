@@ -6,7 +6,7 @@
 
 <!-- [![black & bellow Chat GPT!](img/sonic_ring_jump_short.gif)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)t -->
 
-I'm a **software engineering student** at [École 42](https://42london.com/). I mainly work with C and Python. I love learning and my interests span across ML, operating systems and trading algorithms.
+I'm a **computer science student** at [École 42](https://42london.com/). I mainly work with Python, C and C++ and my interests span across ML, operating systems and trading algorithms.
 <p align="center">
     <a href="https://www.romanm.dev/">
 		<img alt="Gmail" src="https://img.shields.io/badge/-CV-red?style=flat&logo=Alienware&logoColor=white&link=https://www.romanm.dev/" />
