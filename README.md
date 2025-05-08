@@ -6,7 +6,7 @@
 
 [![black & bellow Chat GPT!](img/sonic_ring_jump_short.gif)](https://www.linkedin.com/in/roman-mikhaylenko-183314105/)t 
 
-I'm a computer science student at [École 42](https://42london.com/). I mainly work with Python, C and C++ with research interests in ML within healthcare & sustainability, and an offbeat passion for game design.-->
+I'm a computer science student at [École 42](https://42london.com/). I mainly work with Python, C and C++ with research interests in ML within healthcare & sustainability, and an offbeat passion for game design.--> 
 
 
 <p align="center">
