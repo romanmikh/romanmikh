@@ -8,6 +8,15 @@
 
 I'm a computer science student at [École 42](https://42london.com/). I mainly work with Python, C and C++ with research interests in ML within healthcare & sustainability, and an offbeat passion for game design.--> 
 
+<p align="center">
+	<a href="mailto:amanda_pinha@hotmail.com"><img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-orchid?style=flat&logo=Gmail&logoColor=white&link=mailto:amanda_pinha@hotmail.com" /></a>
+	<span> * </span>
+	<a href="https://appinha.dev/about/"><img alt="My personal website" src="https://img.shields.io/badge/-www.appinha.dev-slateblue?style=flat&logoColor=white&link=https://appinha.dev/about/" /></a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/appinha/"><img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/appinha/" /></a>
+	<span> * </span>
+	<a href="https://profile.intra.42.fr/apuchill"><img alt="Profile at École 42" src="https://img.shields.io/badge/-apuchill_@_42-teal?style=flat&logoColor=white&link=https://profile.intra.42.fr/apuchill" /></a>
+</p>
 
 <p align="center">
     	<a href="https://www.romanm.dev/">
