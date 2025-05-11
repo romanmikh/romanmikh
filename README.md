@@ -11,7 +11,7 @@ I'm a computer science student at [École 42](https://42london.com/). I mainly w
 <p align="center">
     	<a href="https://www.romanm.dev/"><img alt="romanmikh's visitors" src="https://komarev.com/ghpvc/?username=romanmikh&color=4285F4&style=flat&label=visitors" /></a>
 	<span> * </span>
-	<a href="https://www.romanm.dev/"><img alt="Gmail" src="https://img.shields.io/badge/-CV-EA4335?style=flat&logo=Alienware&logoColor=white&link=https://www.romanm.dev/" /></a>
+	<a href="https://www.romanm.dev/"><img alt="Gmail" src="https://img.shields.io/badge/-Space-EA4335?style=flat&logo=Alienware&logoColor=white&link=https://www.romanm.dev/" /></a>
 	<span> * </span>
 	<a href="mailto:roman.mikhaylenko14@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-FBBC05?style=flat&logo=Gmail&logoColor=white&color=FBBC05" /></a>
 	<span> * </span>
